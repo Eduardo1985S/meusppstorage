@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { View, Text, TextInput, Button, StyleSheet } from 'react-native';
 import AsyncStorage from '@react-native-async-storage/async-storage';
+import { StatusBar } from 'react-native-web';
 
 export default function App() {
   // Estados: o que o usuário digita e o nome salvo
@@ -32,6 +33,7 @@ export default function App() {
 
   return (
     <View style={styles.container}>
+      <StatusBar barStyle="dark-content" backgroundColor="#fff" />
       <Text style={styles.titulo}>Meu Primeiro App! 📱</Text>
       {/* Mostra o nome salvo */}
       <Text style={styles.texto}>
