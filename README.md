@@ -225,3 +225,5 @@ Você criou um app que:
     - O exercício opcional (salvar idade) dá um desafio simples para quem quiser ir além.
 4. **Menos passos**:
     - Reduzi os passos da aula, eliminando seções como "Onde ver se tá funcionando?" e exercícios mais complexos, para não sobrecarregar iniciantes.
+
+
