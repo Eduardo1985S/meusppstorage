@@ -206,7 +206,7 @@ Você criou um app que:
 - Mostra o nome mesmo depois de fechar o app.
 - É simples e funciona! 😎
 
-**Dúvidas? Chame o professor!** 🙋‍♂️
+**Dúvidas? Me Chame!** 🙋‍♂️
 
 ---
 
@@ -225,10 +225,3 @@ Você criou um app que:
     - O exercício opcional (salvar idade) dá um desafio simples para quem quiser ir além.
 4. **Menos passos**:
     - Reduzi os passos da aula, eliminando seções como "Onde ver se tá funcionando?" e exercícios mais complexos, para não sobrecarregar iniciantes.
-
-### Dicas para a aula
-
-- **Demonstre ao vivo**: Mostre o app funcionando no seu celular enquanto explica o código.
-- **Use analogias**: Compare o AsyncStorage a uma "gaveta" ou "caixinha" para tornar o conceito mais acessível.
-- **Pause para perguntas**: Dê tempo para os alunos testarem e tirarem dúvidas, especialmente no PASSO 4.
-- **Incentive testes**: Peça para os alunos fecharem e reabrirem o app para verem que o nome persiste.
