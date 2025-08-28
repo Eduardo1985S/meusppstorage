@@ -35,7 +35,7 @@ No terminal, digite:
 3. Crie o projeto:
     
     ```jsx
-    npx create-expo-app MeuApp
+    npx create-expo-app MeuApp -t blank
     ```
     
 4. Entre na pasta do projeto:
